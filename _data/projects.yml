@@ -1,12 +1,12 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Thesis
+- project: Design of DPA-Resistant Integrated Circuits
+  role: Thesis Research Topic
+#  duration: 2012 &mdash; Present
   # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+  description: Over the course of my thesis work, I tested various flip-flop configurations for their ability to resist Differential Power Analysis (DPA) attacks. Further, I incorporated the most secure flip-flop style in conjunction with a custom standard cell library into a design flow to enable synthesis and PnR of secure circuits.
 
 #Springfield Donut Eater's User Group
 - project: Springfield Donut Eater's User Group
