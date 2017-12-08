@@ -11,11 +11,11 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Nikhil N. Gohil"
-resume_title:                   "Nuclear Safety Inspector"
+resume_title:                   "Computer Engineer"
 resume_contact_email:           "nikhil.n.gohil@gmail.com"
 resume_contact_telephone:       "(513) 602-4810"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
-resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
+resume_contact_address:         "316 N San Gabriel Ave., Apt B, Azusa"
+resume_header_contact_info: "316 N San Gabriel Ave., Apt B, Azusa | (513) 602-4810 | nikhil.n.gohil@gmail.com"
 resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
 
 # use "yes" to display the email contact button,
