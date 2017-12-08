@@ -4,43 +4,32 @@
 # Thesis
 - project: Design of DPA-Resistant Integrated Circuits
   role: Thesis Research Topic
-#  duration: 2012 &mdash; Present
   # url: "#"
   description: Over the course of my thesis work, I tested various flip-flop configurations for their ability to resist Differential Power Analysis (DPA) attacks. Further, I incorporated the most secure flip-flop style in conjunction with a custom standard cell library into a design flow to enable synthesis and PnR of secure circuits.
 
 #LE Algo
 - project: Implementation of a Channel Routing Algorithm
-#  role: Co-Founder & Organizer
-# duration: 2007 &mdash; Present
   # url: "#"
   description: A C++ Implementation of the Left-Edge algorithm (with dogleg-routing) for channel routing given a netlist of connections.
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-#  role: Co-Founder & Organizer
-#  duration: 2007 &mdash; Present
+#KL Algo
+- project: Implementation of Graph Partitioning Heuristic
   # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+  description: A C++ Implementation of the Kernighan-Lin Heuristic to partition a graph with minimum cost (interconnections between the split partitions), given a netlist of connections.
   
-  #Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-#  role: Co-Founder & Organizer
-#  duration: 2007 &mdash; Present
+  #Power Analysis
+- project: Power analysis using Synopsys utilities
   # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+  description: Used Design Compiler and Power Compiler to analyze circuit power consumption. Further, used clock gating and Multi-voltage Design (Static Voltage Scaling) for power reduction.
   
-  #Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-#  role: Co-Founder & Organizer
-#  duration: 2007 &mdash; Present
+  #Scan Chain Insertion
+- project: Scan Chain Insertion
   # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+  description: Inserted an internal scan chain into a given design(booth multiplier ). Used Synopsys DFT compiler for scan chain insertion and generated test patterns using Tetramax ATPG.
   
-  #Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-#  role: Co-Founder & Organizer
-#  duration: 2007 &mdash; Present
+  #Interconnect NW
+- project: Design of a 10x10 interconnect network IC
   # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+  description: Used the layout tool MAGIC to design a custom bit-sliced 10x10 interconnect network inside a padframe. The IC was fabricated.
   
   
