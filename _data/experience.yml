@@ -3,4 +3,4 @@
 - company: Intel Corporation
   position: Design Automation Engineer - Power Estimation and Optimization
   duration: Internship, Nov. 2015 &mdash; Apr. 2016
-  summary: I worked as a Design Automation engineer at Intel in Folsom. During this internship, I improved deployment time of the tool PowerArtist across the design team by validating new versions and maintaining the perl wrapper around the tool. I also improved the design flow by writing scripts to mine relevant data from tool logs. Further, I helped the front-end design team by analyzing power differences between front-end and back-end power numbers.
+  summary: I worked as a Design Automation engineer at Intel in Folsom. During this internship, I improved deployment time of the tool PowerArtist across the design team by validating new versions and maintaining the Perl wrapper around the tool. I also improved the design flow by writing scripts to mine relevant data from tool logs. Further, I helped the front-end design team by analyzing power differences between front-end and back-end power numbers.
