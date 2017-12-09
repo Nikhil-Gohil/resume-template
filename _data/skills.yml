@@ -1,8 +1,8 @@
 # Skills
 # Donut design
 - skill: Tools
-  description: <ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+  description: I used severa Synopsys design tools including Design Compiler, IC Compiler, Custom Designer, Nanosim, HSPICE and Hercules for my coursework and thesis projects. In addition, I used Magic layout editor to physically implement an IC and IRSIM, Modelsim and Matlab for testing and verification purposes.
 
 # Craft beer brewing
 - skill: Programming Languages
-  description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
+  description: <ul class="resume-item-list"><li>Perl: I used perl for my thesis design project as well as during my internship at Intel for data mining and manipulation.</li><li>Verilog: My verilog experience comes form working on verilog code for my thesis project as well as for coursework.</li><li>C++: I worked on 2 C++ projects duiring my coursework and am familiar with the basics of Object-Oriented Programming.</li><li>Unix Shell Scripts: I am an avid linux user and am comfortable on the command line including basic bash scripting. I also used some elements of bash scripting incliding sed and awk during my internship experience</li></ul>
