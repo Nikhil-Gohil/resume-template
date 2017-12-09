@@ -1,8 +1,8 @@
 # Skills
 # Donut design
 - skill: Tools
-  description: I used severa Synopsys design tools including Design Compiler, IC Compiler, Custom Designer, Nanosim, HSPICE and Hercules for my coursework and thesis projects. In addition, I used Magic layout editor to physically implement an IC and IRSIM, Modelsim and Matlab for testing and verification purposes.
+  description: I used several Synopsys design tools including Design Compiler, IC Compiler, Custom Designer, Nanosim, HSPICE and Hercules for my coursework and thesis projects. In addition, I used Magic layout editor to physically implement an IC and IRSIM, Modelsim and Matlab for testing and verification purposes.
 
 # Craft beer brewing
 - skill: Programming Languages
-  description: <ul class="resume-item-list"><li>Perl&#58; I used perl for my thesis design project as well as during my internship at Intel for data mining and manipulation.</li><li>Verilog&#58; My verilog experience comes form working on verilog code for my thesis project as well as for coursework.</li><li>C++&#58; I worked on 2 C++ projects duiring my coursework and am familiar with the basics of Object-Oriented Programming.</li><li>Unix Shell Scripts&#58; I am an avid linux user and am comfortable on the command line including basic bash scripting. I also used some elements of bash scripting incliding sed and awk during my internship experience</li></ul>
+  description: <ul class="resume-item-list"><li><strong>Perl</strong>&#58; I used perl for my thesis design project as well as during my internship at Intel for data mining and manipulation.</li><li>Verilog&#58; My verilog experience comes form working on verilog code for my thesis project as well as for coursework.</li><li>C++&#58; I worked on 2 C++ projects duiring my coursework and am familiar with the basics of Object-Oriented Programming.</li><li>Unix Shell Scripts&#58; I am an avid linux user and am comfortable on the command line including basic bash scripting. I also used some elements of bash scripting incliding sed and awk during my internship experience</li></ul>
