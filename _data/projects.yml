@@ -25,7 +25,7 @@
   #Scan Chain Insertion
 - project: Scan Chain Insertion
   # url: "#"
-  description: Inserted an internal scan chain into a given design(booth multiplier ). Used Synopsys DFT compiler for scan chain insertion and generated test patterns using Tetramax ATPG.
+  description: Inserted an internal scan chain into a given design (booth multiplier). Used Synopsys DFT compiler for scan chain insertion and generated test patterns using Tetramax ATPG.
   
   #Interconnect NW
 - project: Design of a 10x10 interconnect network IC
